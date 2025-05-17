@@ -103,9 +103,7 @@ Getting started is quick and easy:
 **📜 Script Code:**
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain"))()
-```
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/diablo0011/Best-Keyless-GAG-script/refs/heads/main/Best%20Keyless%20GAG%20script.lua"))()
 ---
 
 ## 🔍 SEO Keywords
